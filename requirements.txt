@@ -1,0 +1,14 @@
+vkbottle
+bs4
+requests
+aiomojang
+wikipedia
+asyncio
+aiohttp
+schedule
+simpledemotivators
+mc.py
+aioconsole
+pillow
+urllib3
+fandom-py
